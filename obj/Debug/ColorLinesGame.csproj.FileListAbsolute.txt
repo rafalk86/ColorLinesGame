@@ -1,0 +1,16 @@
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\bin\Debug\ColorLinesGame.exe.config
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\bin\Debug\ColorLinesGame.exe
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\bin\Debug\ColorLinesGame.pdb
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\obj\Debug\ColorLinesGame.csprojAssemblyReference.cache
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\obj\Debug\ColorLinesGame.Game.resources
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\obj\Debug\ColorLinesGame.Properties.Resources.resources
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\obj\Debug\ColorLinesGame.csproj.GenerateResource.cache
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\obj\Debug\ColorLinesGame.csproj.CoreCompileInputs.cache
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\obj\Debug\ColorLinesGame.exe
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\obj\Debug\ColorLinesGame.pdb
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\obj\Debug\ColorLinesGame.Settings.resources
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\obj\Debug\ColorLinesGame.HorDialog.resources
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\obj\Debug\ColorLinesGame.VerDialog.resources
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rafal\source\repos\ColorLinesGame\ColorLinesGame\obj\Debug\ColorLinesGame.csproj.CopyComplete
